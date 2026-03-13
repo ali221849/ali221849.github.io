@@ -1,17 +1,48 @@
 # ali221849.github.io
 
-# My Portfolio Wesbite - Overview 🚀
+## Ahsan Ali - Portfolio Website
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This repository contains my personal portfolio website.
 
-## Instructions 🛠️
+## About Me
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+- Name: Ahsan Ali
+- Role: Software Engineer, AI Builder, Backend Developer
+- Education: BS Software Engineering, Air University (2022-2026)
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Contact
 
-![Portfolio-Preview](public/images/preview.png)
+- Email: ahsanaliziddi@gmail.com
+- GitHub: https://github.com/Ahsan22ali
+- LinkedIn: https://www.linkedin.com/in/ahsan-ali-842709253/
+
+## Tech Stack
+
+React, TypeScript, GSAP, Three.js, WebGL, HTML, CSS, JavaScript
+
+## Local Development
+
+1. Install dependencies:
+
+```bash
+pnpm install
+```
+
+2. Run development server:
+
+```bash
+pnpm dev
+```
+
+3. Build for production:
+
+```bash
+pnpm build
+```
+
+## Preview
+
+![Portfolio Preview](public/images/preview.png)
 
 ## License
 
